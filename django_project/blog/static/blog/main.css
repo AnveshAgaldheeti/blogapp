@@ -1,0 +1,16 @@
+
+#box{
+    display: flex;
+    width: 100%;
+    float: left;
+}
+.head{
+    /* background-color: red; */
+    padding: 20px;
+    margin: 20px;
+}
+.cont{
+    /* background-color: rgb(76, 0, 255); */
+    padding: 20px;
+    margin: 20px;
+}
